@@ -1,2 +1,2 @@
-# jemap
-laundry website-jemap
+# laundry
+laundry website
